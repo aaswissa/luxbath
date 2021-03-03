@@ -1,4 +1,9 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center">
+LuxBath is from scratch eCommerce website include Admin Panel actually is final project as FullStack student at HackerU college developed with:
+PHP, Laravel, SQL
+JavaScript, jQuery
+HTML, CSS, Bootstrap </p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
